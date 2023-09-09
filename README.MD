@@ -11,6 +11,3 @@ cd client
 yarn add
 yarn start
 ```
- ## deployment
- 
-https://rithika-memories.netlify.app/
